@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+*Life is easy when have AI*
+[image](https://github.com/sarakhanx/sarakhanx/assets/87906315/52bd6ba2-9650-4972-8386-6382500867e9)
+
+---
+
+## HAPPY CODING 🐳
 
 <!--
 **sarakhanx/sarakhanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
