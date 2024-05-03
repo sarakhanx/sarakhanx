@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 *Life is easy when have AI*
-[[https://github.com/sarakhanx/sarakhanx/assets/87906315/52bd6ba2-9650-4972-8386-6382500867e9]]
+
+![MY ABILITIES](sarakhanx/assets/87906315/52bd6ba2-9650-4972-8386-6382500867e9)
+
 
 ---
 
